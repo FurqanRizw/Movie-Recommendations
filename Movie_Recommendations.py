@@ -1,12 +1,3 @@
-#10 genres, 5 movies each
-
-#welcome message
-#input beginning of genre or input all to view all genres
-#show choices of genre or all genres
-#input genre of choice, ask if want to go back
-#once genre is selected, display movies in genre
-#ask if want to view other genres, if no, end code
-
 genres = ["Action", "Adventure", "Animation", "Comedy", "Drama", "Fantasy", "Horror", "Science-Fiction", "Thriller", "Western"]
 movies = {"Action": ["\nName: Spider-Man: Into the Spider-Verse\nRuntime: 1h 57min\nRating: 4.4/5", "\nName: Inception\nRuntime: 2h 28min\nRating: 4.2/5\n"], 
 "Adventure": ["\nName: Spider-Man: No Way Home\nRuntime: 2h 28min\nRating: 4.0/5", "\nName: Everything Everywhere All at Once\nRuntime: 2h 19min\nRating: 4.4/5\n"], 
